@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/ic_baseline_new_releases_24"
+        android:title="News" />
+    <item
+        android:id="@+id/matches"
+        android:icon="@drawable/ic_more_matches"
+        android:title="Matches" />
+    <item
+        android:id="@+id/table"
+        android:icon="@drawable/ic_baseline_table_chart_24"
+        android:title="Table" />
+</menu>
